@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bac 
-- 👀 I’m a newbie in world of embedded system.
+- 👀 I’m a newbie in the world of embedded system.
 - 🌱 I’m currently learning about IOT and machine learning....
 - 📫 How to reach me :https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/ 
 
