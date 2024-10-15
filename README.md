@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Bac**
 
 ## 👀 About Me
-I’m a newbie in the world of **Embedded Systems**. Currently, I'm mastering the **STM32 MCU** and diving deep into the exciting world of hardware and software integration.
+I’m a newbie in the world of **Embedded Systems**. Currently, I'm  diving deep into the exciting world of hardware and software integration.
 
 ## 🌱 My Learning Journey
 - 📚 **Currently Learning**: STM32 Microcontroller
