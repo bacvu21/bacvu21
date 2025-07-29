@@ -105,11 +105,6 @@
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bacvu21&theme=chartreuse-dark&background=0D1117&border=00FF41&ring=FF0040&fire=FFFF00&currStreakLabel=00FF41)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
