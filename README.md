@@ -33,14 +33,14 @@ I enjoy solving real-world problems through efficient and optimized embedded sol
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bacvu21&show_icons=true&theme=radical" alt="Bac's GitHub stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bacvu21&show_icons=true&theme=radical" alt="Bac's GitHub stats" height="300px"/>
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?username=bacvu21&theme=radical&hide_border=false" alt="GitHub Streak" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=bacvu21&theme=radical&hide_border=false" alt="GitHub Streak" height="200px"/>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacvu21&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacvu21&layout=compact&theme=radical" alt="Top Languages" height="300px"/>
 </p>
 
 ---
