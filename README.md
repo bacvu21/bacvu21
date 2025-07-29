@@ -1,25 +1,48 @@
 # 👋 Hi, I’m **Bac**
 
 ## 👀 About Me
-I’m a newbie in the world of **Embedded Systems**. Currently, I'm  diving deep into the exciting world of hardware and software integration.
+I'm a passionate learner in the world of **Embedded Systems**, focusing on hardware and software integration.  
+I enjoy solving real-world problems through efficient and optimized embedded solutions.
+
+---
 
 ## 🌱 My Learning Journey
-- 📚 **Currently Learning**: STM32 Microcontroller
-- 💻 **Projects**: Exploring various embedded projects and applications
+- 📚 **Currently Learning**: STM32 Microcontrollers, bare-metal programming, and RTOS
+- 💻 **Projects**: Exploring embedded applications and automation projects
+
+---
 
 ## 📫 Connect with Me
-Feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/).
+- 💼 [LinkedIn](https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/)  
 
 ---
 
-### 🌟 Fun Facts
-- 🎮 I love gaming and often draw inspiration from game design for my projects.
-- 🔍 Always eager to learn new technologies and enhance my skills.
+## 🌟 Fun Facts
+- 🎮 I love gaming and often get creative ideas from game design  
+- 🔍 Curious about everything in tech, from low-level firmware to AI  
+
+---
 
 ## 📈 Goals
-- Short-term: Complete several projects using STM32
-- Long-term: Contribute to open-source embedded systems projects and collaborate with others in the field.
+- **Short-term**: Complete multiple STM32-based projects and sharpen debugging skills  
+- **Long-term**: Contribute to open-source embedded projects and collaborate globally  
 
 ---
 
-Thanks for visiting my profile! Let's learn and grow together in the world of embedded systems! 🚀
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Bac's GitHub stats" height="160px"/>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=false" alt="GitHub Streak" height="160px"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+</p>
+
+---
+
+✨ *Thanks for visiting my profile! Let's learn and grow together in the world of embedded systems!* 🚀
