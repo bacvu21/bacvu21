@@ -40,7 +40,7 @@ I enjoy solving real-world problems through efficient and optimized embedded sol
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacvu21&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
 </p>
 
 ---
