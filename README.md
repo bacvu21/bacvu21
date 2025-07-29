@@ -1,125 +1,150 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm **Bac Vu** 
+# 🎮 **PLAYER: BAC VU** - *Level 99 Embedded Engineer*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Hardware+%26+Software+Integration;STM32+%7C+Bare-metal+%7C+RTOS;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=LOADING...;EMBEDDED+SYSTEMS+ENGINEER;STM32+%7C+BARE-METAL+%7C+RTOS;HARDWARE+HACKER+ACTIVATED;BUILDING+THE+FUTURE...;GAME+OVER%3F+PRESS+START!" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bacvu21)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 🚀 **About Me**
-
-```embedded-c
-typedef struct {
-    char name[20];
-    char role[30];
-    char location[20];
-    char passion[50];
-    bool always_learning;
-} Engineer;
-
-Engineer bac = {
-    .name = "Bac Vu",
-    .role = "Embedded Systems Engineer",
-    .location = "Vietnam",
-    .passion = "Building efficient embedded solutions",
-    .always_learning = true
-};
+```
+██████╗  █████╗  ██████╗    ██╗   ██╗██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝    ██║   ██║██║   ██║
+██████╔╝███████║██║         ██║   ██║██║   ██║
+██╔══██╗██╔══██║██║         ╚██╗ ██╔╝██║   ██║
+██████╔╝██║  ██║╚██████╗     ╚████╔╝ ╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝      ╚═══╝   ╚═════╝ 
 ```
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-🔭 **Currently Working On**: Advanced STM32 projects with real-time constraints  
-🌱 **Learning**: ARM Cortex-M architecture, FreeRTOS, and embedded security  
-⚡ **Passionate About**: Hardware-software integration and optimization  
-🎮 **Fun Fact**: I draw inspiration from game design for creative problem-solving  
-🎯 **Goal**: Contributing to open-source embedded projects globally  
-
----
-
-## 🛠️ **Tech Stack & Tools**
-
 <div align="center">
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Embedded Platforms**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-### **Development Tools**
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil-00599C?style=for-the-badge&logo=arm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Protocols & Communication**
-![UART](https://img.shields.io/badge/UART-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJMMjIgMTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=)
-![SPI](https://img.shields.io/badge/SPI-4ECDC4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJMMjIgMTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=)
-![I2C](https://img.shields.io/badge/I2C-45B7D1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJMMjIgMTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=)
-![CAN](https://img.shields.io/badge/CAN-96CEB4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJMMjIgMTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+Cjwvc3ZnPgo=)
-
-### **Operating Systems**
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AA55?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMiIgcnk9IjIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![🎮 GAME HUB](https://img.shields.io/badge/🎮_GAME_HUB-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/v%C5%A9-h%E1%BB%AFu-b%E1%BA%AFc-8a5b35215/)
+[![⚔️ QUEST LOG](https://img.shields.io/badge/⚔️_QUEST_LOG-GitHub-FF0040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bacvu21)
+[![📧 SEND MSG](https://img.shields.io/badge/📧_SEND_MSG-Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎯 **PLAYER STATS**
+
+<img align="right" alt="Pixel Character" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+```ascii
+┌─────────────────────────────────────────┐
+│  🎮 PLAYER INFO                         │
+├─────────────────────────────────────────┤
+│  👤 NAME: Bac Vu                       │
+│  🏆 LEVEL: 99 (Embedded Master)        │
+│  🌍 LOCATION: Vietnam Server           │
+│  ⚡ CLASS: Hardware Hacker             │
+│  🎯 MISSION: Build Epic Embedded Stuff │
+│  💖 HP: ∞ (Powered by Coffee)          │
+└─────────────────────────────────────────┘
+```
+
+**🎮 CURRENT QUEST:** Advanced STM32 Boss Fight  
+**📚 SKILL TREE:** ARM Cortex-M Architecture Mastery  
+**⚡ SPECIAL ABILITY:** Hardware-Software Integration  
+**🎲 LUCK STAT:** Drawing inspiration from game mechanics  
+**🏅 ACHIEVEMENT UNLOCKED:** Always Learning New Tech  
+
+---
+
+## ⚔️ **INVENTORY & WEAPONS**
+
+<div align="center">
+
+### 🗡️ **PROGRAMMING WEAPONS**
+![C](https://img.shields.io/badge/⚔️_C_SWORD-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/🛡️_C++_SHIELD-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/🗡️_ASM_BLADE-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/🔮_PYTHON_MAGIC-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🏰 **HARDWARE KINGDOMS**
+![STM32](https://img.shields.io/badge/🏰_STM32_CASTLE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/🎯_ARDUINO_GUILD-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/🍓_RPI_KINGDOM-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/📡_ESP32_TOWER-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### 🛠️ **POWER TOOLS & ARTIFACTS**
+![STM32CubeIDE](https://img.shields.io/badge/⚡_CUBE_HAMMER-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Keil](https://img.shields.io/badge/🔧_KEIL_WRENCH-00599C?style=for-the-badge&logo=arm&logoColor=white)
+![VS Code](https://img.shields.io/badge/💻_VSCODE_PORTAL-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/🌳_GIT_TREE-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📡 **COMMUNICATION SPELLS**
+![UART](https://img.shields.io/badge/📞_UART_WHISPER-FF6B6B?style=for-the-badge)
+![SPI](https://img.shields.io/badge/⚡_SPI_LIGHTNING-4ECDC4?style=for-the-badge)
+![I2C](https://img.shields.io/badge/🔗_I2C_CHAIN-45B7D1?style=for-the-badge)
+![CAN](https://img.shields.io/badge/🚀_CAN_ROCKET-96CEB4?style=for-the-badge)
+
+### 🖥️ **OPERATING SYSTEMS REALM**
+![FreeRTOS](https://img.shields.io/badge/👑_FREERTOS_CROWN-00AA55?style=for-the-badge)
+![Linux](https://img.shields.io/badge/🐧_LINUX_PENGUIN-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/🪟_WINDOWS_PORTAL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GAME STATISTICS & ACHIEVEMENTS**
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════╗
+║                   🎮 GAME STATS 🎮                   ║
+╠══════════════════════════════════════════════════════╣
+║  📈 CODE COMMITS: [████████████████████████] 100%   ║
+║  🔥 STREAK COMBO: [██████████████████      ] 85%    ║
+║  💡 PROJECTS WON: [████████████████        ] 80%    ║
+║  📚 SKILLS UNLOCKED: [██████████████████  ] 90%     ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacvu21&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF0040&bg_color=0D1117&border_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacvu21&layout=compact&langs_count=8&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=0D1117&border_color=00FF41"/>
+
+</div>
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacvu21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacvu21&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=bacvu21&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bacvu21&theme=chartreuse-dark&background=0D1117&border=00FF41&ring=FF0040&fire=FFFF00&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 **Current Focus Areas**
+## 🎯 **SKILL TREE & QUEST LOG**
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🔧 **Technical Skills**
-- ⚙️ **Bare-metal Programming**
-- 🔄 **Real-time Operating Systems**
-- 📡 **Communication Protocols**
-- 🛡️ **Embedded Security**
-- ⚡ **Power Optimization**
+```ascii
+┌─ 🛡️ MASTERED SKILLS ─┐
+│                      │
+│ ⚙️ Bare-metal Magic  │
+│ 🔄 RTOS Wizardry     │
+│ 📡 Protocol Mastery  │
+│ 🔒 Security Shields  │
+│ ⚡ Power Optimization│
+│                      │
+└──────────────────────┘
+```
 
 </td>
 <td width="50%">
 
-### 📚 **Learning Path**
-- 🎯 **Advanced STM32 Features**
-- 🌐 **IoT Integration**
-- 🔬 **Digital Signal Processing**
-- 🤖 **Embedded AI/ML**
-- 🔗 **Bootloader Development**
+```ascii
+┌─ 📚 LEARNING QUESTS ─┐
+│                      │
+│ 🎯 STM32 Boss Fight  │
+│ 🌐 IoT Dungeon Crawl │
+│ 🔬 DSP Magic School  │
+│ 🤖 AI/ML Side Quest  │
+│ 🔗 Bootloader Craft  │
+│                      │
+└──────────────────────┘
+```
 
 </td>
 </tr>
@@ -127,75 +152,115 @@ Engineer bac = {
 
 ---
 
-## 🏆 **Featured Projects**
+## 🏆 **FEATURED BOSS BATTLES (PROJECTS)**
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bacvu21&repo=project1&theme=tokyonight)](https://github.com/bacvu21/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bacvu21&repo=project2&theme=tokyonight)](https://github.com/bacvu21/project2)
+```ascii
+╔════════════════════════════════════════════════════╗
+║                 🎮 BOSS BATTLES 🎮                 ║
+╠════════════════════════════════════════════════════╣
+║  🤖 Project Alpha    [████████████] COMPLETED      ║
+║  ⚡ Project Beta     [████████    ] IN PROGRESS    ║
+║  🚀 Project Gamma    [████        ] PLANNING       ║
+║  🔥 Project Delta    [            ] LOCKED         ║
+╚════════════════════════════════════════════════════╝
+```
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bacvu21&repo=project1&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=0D1117&border_color=00FF41)](https://github.com/bacvu21/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bacvu21&repo=project2&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=0D1117&border_color=00FF41)](https://github.com/bacvu21/project2)
 
 </div>
 
 ---
 
-## 📈 **Activity Graph**
+## 📈 **PLAYER ACTIVITY MAP**
 
 <div align="center">
+
+```ascii
+🎮 DAILY GRINDING PATTERN 🎮
+```
   
-[![Bac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bacvu21&theme=tokyo-night)](https://github.com/bacvu21)
+[![Bac's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bacvu21&theme=green&bg_color=0d1117&color=00ff41&line=ff0040&point=ffff00&area=true&hide_border=true)](https://github.com/bacvu21)
 
 </div>
 
 ---
 
-## 🎮 **Fun Zone**
+## 🎮 **MINI GAMES & ACHIEVEMENTS**
 
 <div align="center">
 
-### 🐍 **Snake Game (Generated from my contributions)**
+### 🐍 **SNAKE GAME** *(Generated from code commits)*
 ![Snake animation](https://github.com/bacvu21/bacvu21/blob/output/github-contribution-grid-snake.svg)
 
-### 🏆 **GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=bacvu21&theme=discord&column=7)](https://github.com/bacvu21)
+### 🏆 **ACHIEVEMENT COLLECTION**
+[![trophy](https://github-profile-trophy.vercel.app/?username=bacvu21&theme=matrix&column=7&margin-w=10&no-bg=true&no-frame=true)](https://github.com/bacvu21)
 
 </div>
 
 ---
 
-## 💭 **Random Dev Quote**
+## 💬 **RANDOM GAME QUOTE**
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 **Let's Connect & Collaborate!**
-
-<div align="center">
-
+```ascii
+╔══════════════════════════════════════════════════════╗
+║  "Code is like a puzzle game - every bug is just     ║
+║   another level to conquer!" - Embedded Gamer 🎮     ║
+╚══════════════════════════════════════════════════════╝
 ```
-while(learning) {
-    explore_new_technologies();
-    build_awesome_projects();
-    share_knowledge();
-    collaborate_globally();
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs)
+
+</div>
+
+---
+
+## 🕹️ **MULTIPLAYER MODE - LET'S TEAM UP!**
+
+<div align="center">
+
+```c
+void main() {
+    while(player.isAlive()) {
+        explore_new_tech();
+        build_epic_projects();
+        share_knowledge();
+        level_up_together();
+        
+        if(collaboration_request()) {
+            accept_team_invite();  // Always ready! 🎮
+        }
+    }
 }
 ```
 
-**💌 Open to collaborations, discussions, and sharing knowledge!**  
-**🚀 Let's build the future of embedded systems together!**
+**🎯 LOOKING FOR CO-OP PARTNERS!**  
+**⚡ Ready for epic embedded adventures!**  
+**🚀 Let's build the ultimate hardware-software combo!**
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=bacvu21&label=Profile%20views&color=0e75b6&style=flat" alt="bacvu21" />
+```ascii
+╔══════════════════════════════════════════════════════╗
+║                    🎮 GAME OVER? 🎮                   ║
+║                                                      ║
+║           Press [STAR ⭐] to continue...             ║
+║                                                      ║
+║     Thanks for visiting my arcade! Come back         ║
+║              for more epic adventures! 🚀            ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=bacvu21&label=Players%20Visited&color=brightgreen&style=for-the-badge" alt="bacvu21" />
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/bacvu21">bacvu21</a> - Made with ❤️ and lots of ☕</i>
+  <i>🎮 From the gaming lair of <a href="https://github.com/bacvu21">bacvu21</a> - Crafted with ❤️, ☕ and lots of 🎯</i>
 </div>
