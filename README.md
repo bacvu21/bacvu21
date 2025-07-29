@@ -33,9 +33,9 @@ I enjoy solving real-world problems through efficient and optimized embedded sol
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Bac's GitHub stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bacvu21&show_icons=true&theme=radical" alt="Bac's GitHub stats" height="160px"/>
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=false" alt="GitHub Streak" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=bacvu21&theme=radical&hide_border=false" alt="GitHub Streak" height="160px"/>
 </p>
 
 <p align="center">
