@@ -1,4 +1,4 @@
-# 🎮 **PLAYER: BAC VU** - *Level 99 Embedded Engineer*
+# 🎮 **PLAYER: BAC VU** - *Embedded Engineering*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=LOADING...;EMBEDDED+SYSTEMS+ENGINEER;STM32+%7C+BARE-METAL+%7C+RTOS;HARDWARE+HACKER+ACTIVATED;BUILDING+THE+FUTURE...;GAME+OVER%3F+PRESS+START!" alt="Typing SVG" />
